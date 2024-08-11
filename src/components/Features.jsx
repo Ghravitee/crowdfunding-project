@@ -150,7 +150,7 @@ const Features = () => {
                 left
               </p>
             </div>
-            <button className="bg-Moderate-Cyan hover:bg-Dark-Cyan mr-24 md:mr-0 commissioner-500 text-[1rem] px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
+            <button className="bg-Moderate-Cyan hover:bg-Dark-Cyan mr-24 md:mr-0 commissioner-500 text-sm sm:text-base md:text-[1.1rem] px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
               Select Reward
             </button>
           </div>
@@ -178,7 +178,7 @@ const Features = () => {
                 left
               </p>
             </div>
-            <button className="bg-Moderate-Cyan hover:bg-Dark-Cyan mr-24 md:mr-0 commissioner-500 text-[1rem] px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
+            <button className="bg-Moderate-Cyan hover:bg-Dark-Cyan mr-24 md:mr-0 commissioner-500 text-sm sm:text-base md:text-[1.1rem] px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
               Select Reward
             </button>
           </div>
@@ -206,7 +206,7 @@ const Features = () => {
                 left
               </p>
             </div>
-            <button className="bg-[hsl(0_0%_85%)] mr-14 md:mr-0 commissioner-500 text-[1rem] px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
+            <button className="bg-[hsl(0_0%_85%)] mr-14 md:mr-0 commissioner-500 text-sm sm:text-base md:text-[1.1rem]  px-6 py-2 rounded-full flex justify-center items-center text-white commissioner-500">
               Out of Stock
             </button>
           </div>
