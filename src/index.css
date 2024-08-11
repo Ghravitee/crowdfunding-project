@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Moderate-Cyan: hsl(176, 50%, 47%);
+  --Dark-Cyan: hsl(176, 72%, 28%);
+
+  --Black: hsl(0, 0%, 0%);
+  --Dark-Gray: hsl(0, 0%, 48%);
+}
+
+
+.commissioner-400 {
+  font-family: "Commissioner", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.commissioner-500 {
+  font-family: "Commissioner", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.commissioner-700 {
+  font-family: "Commissioner", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
